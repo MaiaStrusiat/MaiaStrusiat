@@ -1,5 +1,3 @@
-# 💫 About Me:
-¡Hola!<br>Soy  estudiante de programación, finalizando la carrera en la Universidad Tecnológica Nacional. Mis estudios se extienden tanto en el mundo del front-end como en el del back-end, lo que me hace capaz de abordar proyectos desde diferentes ángulos y perspectivas.<br><br>Mi enfoque de trabajo se basa en el método Scrum, lo que me permite hacer entregas rápidas y adaptarme a los cambios de forma eficiente. Estoy constantemente buscando nuevas formas de mejorar y optimizar mis habilidades técnicas.<br><br>Estoy familiarizada con una amplia gama de lenguajes de programación lo que me permite adaptarme a las necesidades de cualquier proyecto y mantenerme actualizada en las últimas tendencias en desarrollo.<br><br>Mi objetivo principal es ofrecer soluciones creativas e innovadoras a los desafíos que se me presenten. Considero que la programación es un arte y me gusta combinar  la tecnología con la creatividad para crear productos de alta calidad.<br><br>
 
 
 # 💻 Tech Stack:
